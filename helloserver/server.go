@@ -3,7 +3,6 @@ package main
 import (
 	"context"
 	"fmt"
-	"hello_gRPC/hellopb"
 	"log"
 	"net"
 
